@@ -1,1 +1,9 @@
-not meant to be played full screen (right now atleast... sorry for how clunky the gmae is but its out
+kinda sucks game but oh well.. 
+
+WASD to move
+
+Space to jump
+
+Left click (mouse1) to shoot
+
+R to reset
